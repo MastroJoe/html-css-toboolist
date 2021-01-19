@@ -1,0 +1,115 @@
+*{
+  background-color: rgb(245, 248, 249);
+  margin: 0;
+  font-family: Helvetica;
+}
+
+.banner{
+  background-color: white;
+  width: 100%;
+  height: 100px;
+}
+
+#logo{
+  width: 70px;
+  margin-top: 10px;
+  margin-left: 25px;
+  background-color: white;
+}
+
+.inline{
+  display: inline-block;
+  background-color: white;
+}
+
+.table_1{
+  background-color: white;
+  height: 80px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 40px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.tastoblu{
+  background-color: rgb(40, 200, 235);
+  color: white;
+  padding: 10px;
+  margin-top: 25px;
+  border:0;
+  border-radius: 5px;
+}
+
+.tastobianco{
+  background-color: rgb(71, 173, 241);
+  color: white;
+  padding: 10px;
+  margin-top: 25px;
+  border-radius: 5px;
+}
+
+.tastobianco{
+  background-color: white;
+  color: lightgrey;
+  padding: 10px;
+  margin-top: 25px;
+  border-radius: 5px;
+}
+
+.table_2{
+  background-color: white;
+  height: 800px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  list-style: none;
+}
+
+.table_2-mod{
+  background-color: white;
+  padding-top: 45px;
+}
+
+.table_2 h1:before{
+  content: '\25bc';
+}
+
+.button{
+  display: inline;
+  border-radius: 10px;
+  border:0;
+  color:white;
+  padding: 6px;
+}
+
+.table_3-mod{
+  background-color: white;
+  margin-top: 10px;
+}
+
+#editorial{
+  background-color: rgb(40, 200, 235);
+}
+
+#Q1_goals{
+  background-color: rgb(156, 114, 228);
+}
+
+#recruiting{
+  background-color: rgb(100, 192, 169);
+}
+
+#mobile{
+  background-color: rgb(242, 158, 51);
+}
+
+#website{
+  background-color: rgb(216, 99, 161);
+}
+
+#sales{
+  background-color: rgb(176, 201, 38);
+}
